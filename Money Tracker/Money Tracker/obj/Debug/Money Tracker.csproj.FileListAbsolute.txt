@@ -1,0 +1,11 @@
+C:\Users\mouss\Desktop\Money Tracker\Money Tracker\bin\Debug\Money Tracker.exe.config
+C:\Users\mouss\Desktop\Money Tracker\Money Tracker\bin\Debug\Money Tracker.exe
+C:\Users\mouss\Desktop\Money Tracker\Money Tracker\bin\Debug\Money Tracker.pdb
+C:\Users\mouss\Desktop\Money Tracker\Money Tracker\obj\Debug\Money Tracker.csprojAssemblyReference.cache
+C:\Users\mouss\Desktop\Money Tracker\Money Tracker\obj\Debug\Money_Tracker.Form1.resources
+C:\Users\mouss\Desktop\Money Tracker\Money Tracker\obj\Debug\Money_Tracker.Properties.Resources.resources
+C:\Users\mouss\Desktop\Money Tracker\Money Tracker\obj\Debug\Money Tracker.csproj.GenerateResource.cache
+C:\Users\mouss\Desktop\Money Tracker\Money Tracker\obj\Debug\Money Tracker.csproj.CoreCompileInputs.cache
+C:\Users\mouss\Desktop\Money Tracker\Money Tracker\obj\Debug\Money Tracker.exe
+C:\Users\mouss\Desktop\Money Tracker\Money Tracker\obj\Debug\Money Tracker.pdb
+C:\Users\mouss\Desktop\Money Tracker\Money Tracker\obj\Debug\Money_Tracker.MainForm.resources
